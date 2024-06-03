@@ -12,7 +12,7 @@ and open .py file.
 
 # HOW CAN I GET READY RAT?
 
-first open with any idle or note pad
+first open rat with any idle or note pad
 
 go to the end of the file and you see this line : client.run("TOKEN HERE")
 
