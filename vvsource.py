@@ -1,6 +1,6 @@
 #//CODED BY VROLSN
 #                                                                             !!GHOST VERSION!!      
-#                                                                            Version       3.6.0
+#                                                                            Version       3.5.0
 import discord
 from discord.ext import commands
 from Cryptodome.Cipher import AES
