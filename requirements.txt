@@ -1,0 +1,9 @@
+discord
+cryptography
+pygame
+opencv-python==4.7.0.72
+comtypes==1.3.1
+PyAutoGUI==0.9.54
+pycryptodome==3.20.0
+pycryptodomex==3.20.0
+pillow==10.3.0
