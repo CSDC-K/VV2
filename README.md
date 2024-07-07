@@ -4,7 +4,7 @@ This is special discord rat this is working with python and you need python 3.11
 ![image](https://github.com/CSDC-K/VV2/assets/100463228/9b4e83d4-fcd6-4f26-8dae-479f0836a53d)
 
 
-# HOW TO WORKS?
+# HOW IT WORKS?
 
 first install python and open cmd later write this command on project folder --> pip install -r requirements.txt
 
