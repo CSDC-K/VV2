@@ -1,4 +1,4 @@
-#//CODED BY VROLSN
+#//CODED BY CSDC-K (VROLSN)
 #                                                                             !!GHOST VERSION!!      
 #                                                                            Version       3.5.0
 import discord
